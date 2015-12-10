@@ -1,4 +1,4 @@
-package com.epam.xml_analyzer;
+package com.epam.analyzers;
 
 import java.io.File;
 import java.io.IOException;
